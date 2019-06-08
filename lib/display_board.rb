@@ -3,6 +3,7 @@ Def display_board
 phrase="Welcome to Tic Tac Toe"
 puts=phrase
 end
+
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
